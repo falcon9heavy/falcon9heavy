@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @falcon9heavy
-- 👀 I’m interested in cyber security, protecting digital assets, spaceX (anything space related), identity management
-- 🌱 I’m currently trying to improve my knowledge of Python
+- 👋 Hi, I’m Chris Adams from West Chester, PA
+- 👀 I work in the cyber security field, protecting digital assets, and also focus on identity management
+- 🌱 I’m currently trying to radically improve my knowledge of Python and writing against bitcoin blockchain
 - 💞️ I’m looking to collaborate on open source projects related to above topics
 - 📫 How to reach me chrisadams27@gmail.com
 
